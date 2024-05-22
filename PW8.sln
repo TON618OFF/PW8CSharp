@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BASE", "BASE\BASE.csproj", "{5BC88EE0-9822-4856-BC18-3D6CDA1BB0CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerDeser", "SerDeser\SerDeser.csproj", "{77D9D5DF-D78C-45FA-99C5-085E13100ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeChanger", "ThemeChanger\ThemeChanger.csproj", "{45B1A868-25D5-4915-8991-C67F5CB7D8EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BC88EE0-9822-4856-BC18-3D6CDA1BB0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC88EE0-9822-4856-BC18-3D6CDA1BB0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC88EE0-9822-4856-BC18-3D6CDA1BB0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC88EE0-9822-4856-BC18-3D6CDA1BB0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D9D5DF-D78C-45FA-99C5-085E13100ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D9D5DF-D78C-45FA-99C5-085E13100ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D9D5DF-D78C-45FA-99C5-085E13100ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D9D5DF-D78C-45FA-99C5-085E13100ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B1A868-25D5-4915-8991-C67F5CB7D8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B1A868-25D5-4915-8991-C67F5CB7D8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B1A868-25D5-4915-8991-C67F5CB7D8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B1A868-25D5-4915-8991-C67F5CB7D8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C529AA7-FC88-4C51-A8D2-016E3B8C469F}
+	EndGlobalSection
+EndGlobal
